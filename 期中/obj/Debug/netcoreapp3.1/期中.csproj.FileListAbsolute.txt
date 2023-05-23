@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\homework\期中\期中\obj\Debug\netcoreapp3.1\期中.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\homework\期中\期中\obj\Debug\netcoreapp3.1\期中.csproj.GenerateResource.cache
+C:\Users\user\Desktop\homework\期中\期中\obj\Debug\netcoreapp3.1\期中.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\homework\期中\期中\obj\Debug\netcoreapp3.1\期中.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\homework\期中\期中\obj\Debug\netcoreapp3.1\期中.AssemblyInfo.cs
+C:\Users\user\Desktop\homework\期中\期中\obj\Debug\netcoreapp3.1\期中.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\homework\期中\期中\obj\Debug\netcoreapp3.1\期中.genruntimeconfig.cache
+C:\Users\user\Desktop\homework\期中\期中\bin\Debug\netcoreapp3.1\midt10911143.exe
+C:\Users\user\Desktop\homework\期中\期中\bin\Debug\netcoreapp3.1\midt10911143.deps.json
+C:\Users\user\Desktop\homework\期中\期中\bin\Debug\netcoreapp3.1\midt10911143.runtimeconfig.json
+C:\Users\user\Desktop\homework\期中\期中\bin\Debug\netcoreapp3.1\midt10911143.runtimeconfig.dev.json
+C:\Users\user\Desktop\homework\期中\期中\bin\Debug\netcoreapp3.1\midt10911143.dll
+C:\Users\user\Desktop\homework\期中\期中\bin\Debug\netcoreapp3.1\midt10911143.pdb
+C:\Users\user\Desktop\homework\期中\期中\obj\Debug\netcoreapp3.1\midt10911143.dll
+C:\Users\user\Desktop\homework\期中\期中\obj\Debug\netcoreapp3.1\midt10911143.pdb
+C:\Users\user\Desktop\homework\期中\期中\obj\Debug\netcoreapp3.1\midterm.Form1.resources
